@@ -1,0 +1,1 @@
+# Project-of-k8s-new-redidit
